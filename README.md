@@ -40,7 +40,16 @@ dotnet build
 dotnet publish -c Release
 ```
 
+### 実行
+
+`dotnet run` で実行すると以下の画面が表示されます。
+
+![image-20240826173159347](assets/image-20240826173159347.png)
+
+
+
 ### kznagamori.WinFormsBlazorAppp.X.X.X.nupkgの作成
+
 ```
 nuget pack .\WinformsBlazorAppTemplate.nuspec
 ```

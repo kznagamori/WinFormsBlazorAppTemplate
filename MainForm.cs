@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Components.WebView.WindowsForms;
 using Microsoft.Extensions.DependencyInjection;
+using ___PROJECTNAME___.Components;
 
 namespace ___PROJECTNAME___;
 
